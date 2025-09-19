@@ -1,0 +1,12 @@
+
+# データフォルダを除外
+data/
+*.tar.gz
+
+# 仮想環境除外
+env/
+venv/
+
+# Pythonキャッシュ
+__pycache__/
+*.pyc
